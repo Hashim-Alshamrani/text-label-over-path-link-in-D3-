@@ -1,0 +1,122 @@
+{
+        "name": "0",
+        "rule": "null",
+            "children": [{
+            "name": "next",
+            "rule": "sunny",
+                "children": [{
+                "name": "next",
+                "rule": "high"
+            }, {
+                "name": "next",
+                "rule": "normal"
+            },{
+                "name": "next",
+                "rule": "normal"
+            }]
+        }, {
+            "name": "next",
+            "rule": "overcast"
+        }, {
+            "name": "next",
+            "rule": "rainy",
+                "children": [{
+                "name": "next",
+                "rule": "TRUE"
+            }, {
+                "name": "next",
+                "rule": "FALSE"
+            },{
+                "name": "next",
+                "rule": "normal"
+            }]
+        },
+        {
+            "name": "next",
+            "rule": "rainy",
+                "children": [{
+                "name": "next",
+                "rule": "TRUE"
+            }, {
+                "name": "next",
+                "rule": "FALSE"
+            }]
+        },
+        {
+            "name": "next",
+            "rule": "rainy",
+                "children": [{
+                "name": "next",
+                "rule": "TRUE"
+            }, {
+                "name": "next",
+                "rule": "FALSE"
+            }]
+        },
+        {
+            "name": "next",
+            "rule": "rainy",
+                "children": [{
+                "name": "next",
+                "rule": "TRUE"
+            }, {
+                "name": "next",
+                "rule": "FALSE"
+            }]
+        },
+        {
+            "name": "next",
+            "rule": "rainy",
+                "children": [{
+                "name": "next",
+                "rule": "TRUE"
+            }, {
+                "name": "next",
+                "rule": "FALSE"
+            }]
+        },
+        {
+            "name": "next",
+            "rule": "rainy",
+                "children": [{
+                "name": "next",
+                "rule": "TRUE"
+            }, {
+                "name": "next",
+                "rule": "FALSE"
+            }]
+        },
+        {
+            "name": "next",
+            "rule": "rainy",
+                "children": [{
+                "name": "next",
+                "rule": "TRUE"
+            }, {
+                "name": "next",
+                "rule": "FALSE"
+            }]
+        },
+        {
+            "name": "next",
+            "rule": "rainy",
+                "children": [{
+                "name": "next",
+                "rule": "TRUE"
+            }, {
+                "name": "next",
+                "rule": "FALSE"
+            }]
+        },
+        {
+            "name": "next",
+            "rule": "rainy",
+                "children": [{
+                "name": "next",
+                "rule": "TRUE"
+            }, {
+                "name": "next",
+                "rule": "FALSE"
+            }]
+        }]
+    }
